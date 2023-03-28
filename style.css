@@ -1,0 +1,55 @@
+body{
+    margin: 0;
+    text-align: center;
+    background-color: #BBD6B8;
+    font-family: 'Sacramento', cursive;
+   
+}
+h1{
+    padding-top: 180px;
+    color:#245953;
+
+  
+}
+h2{
+    color:#245953;
+    font-family: 'Cookie', cursive;
+    font-weight: normal;
+    
+}
+p{
+    margin-top: 0;
+    margin-bottom: 0;
+}
+hr{
+    border: dotted #66BFBF;
+    border-bottom: none;
+    width: 4%;
+}
+.first{
+
+    position:relative;
+  
+}
+.profile{
+    position: absolute;
+    top:150px;
+   padding-left:300px;
+    left:0px;
+    
+}
+.skill1{
+    margin: 50 0 0;
+}
+.java{
+    width:25%;
+}
+.Html{
+    width:25%;
+}
+.last
+{
+    background-color: #E49393;
+    padding-top: 50px 50px;
+
+}
